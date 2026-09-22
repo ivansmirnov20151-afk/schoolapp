@@ -1,0 +1,9 @@
+{
+  "name":"Расписание и Звонки — 5Б",
+  "short_name":"Расписание 5Б",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f6f2f7",
+  "theme_color":"#6750a4",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
